@@ -1,0 +1,1 @@
+The best way to compile and run this app is to download the source code and open it into Android Studio and run the application.
